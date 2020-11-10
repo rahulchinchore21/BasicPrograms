@@ -17,8 +17,9 @@ public class ArmstrongNo {
 			n = n / 10;
 		}
 
-		if(sum == num)
+		if(sum == num) {
 			System.out.println("Armstrong Number");
+		}
 		else
 			System.out.println("Not a Armstrong Number");
 	}
