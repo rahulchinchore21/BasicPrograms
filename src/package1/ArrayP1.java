@@ -5,6 +5,7 @@ public class ArrayP1 {
 		int[][] arr1= new int[3][4];
 		String str= "How are you";
 		Scanner sc=new Scanner(System.in);
+		System.out.println("Hello");
 		/*System.out.println("Enter 3 numbers:");
 		for(int i=0;i<a.length;i++) {
 			a[i]=sc.nextInt();
