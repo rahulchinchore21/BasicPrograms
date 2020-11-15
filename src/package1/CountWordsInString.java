@@ -16,6 +16,7 @@ public class CountWordsInString {
 			
 			if(s1[i].equals("java")) {
 				count++;
+				System.out.println("Count incremented");
 			}
 		}
 		System.out.println("Found String Java "+count+" times");
