@@ -1,6 +1,8 @@
 package package1;
 import java.util.Scanner;
+
 public class ArrayP1 {
+	
 	public static void main(String[] args) {
 		int[][] arr1= new int[3][4];
 		String str= "How are you";
