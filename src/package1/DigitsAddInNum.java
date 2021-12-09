@@ -6,7 +6,7 @@ public class DigitsAddInNum {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		int i, sum = 0;
+		int i, sum = 0, x;
 		System.out.println("Enter a number:");
 		int n = sc.nextInt();
 		while(n > 0) {
