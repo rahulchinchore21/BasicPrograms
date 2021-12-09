@@ -1,10 +1,13 @@
 package package1;
 import java.util.Scanner;
+
 public class ArrayP1 {
+	
 	public static void main(String[] args) {
 		int[][] arr1= new int[3][4];
 		String str= "How are you";
 		Scanner sc=new Scanner(System.in);
+		System.out.println("Hello");
 		/*System.out.println("Enter 3 numbers:");
 		for(int i=0;i<a.length;i++) {
 			a[i]=sc.nextInt();
