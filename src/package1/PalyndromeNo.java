@@ -2,6 +2,8 @@ package package1;
 
 import java.util.Scanner;
 
+#This program is for playndrome number
+
 public class PalyndromeNo {
 
 	public static void main(String[] args) {
